@@ -34,4 +34,5 @@ function convertToRoman(num) {
  return romanNumber;
 }
 
+console.log(convertToRoman(36)); //returns XXXVI
 console.log(convertToRoman(2014)); //returns MMXIV 
