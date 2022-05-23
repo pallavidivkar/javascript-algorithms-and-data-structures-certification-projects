@@ -8,4 +8,5 @@ function palindrome(str) {
     return false;
 }
 
+console.log(palindrome("eye")); //returns true
 console.log(palindrome("A man, a plan, a canal. Panama")); //returns true
