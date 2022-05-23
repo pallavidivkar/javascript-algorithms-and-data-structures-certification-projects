@@ -14,3 +14,4 @@ function rot13(str) {
 }
 
 console.log(rot13("GUR DHVPX OEBJA SBK WHZCF BIRE GUR YNML QBT.")); //returns THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+console.log(rot13("SERR PBQR PNZC")); //returns FREE CODE CAMP
